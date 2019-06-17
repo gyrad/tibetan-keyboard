@@ -1,0 +1,13 @@
+.spacer {
+  margin-top: 2rem;
+}
+
+.copy-btn,
+.space-btn {
+  margin-top: 0.5rem;
+}
+
+#debug {
+  font-size: 0.8rem;
+  color: red;
+}

@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/gyrad/tibetan-keyboard/issues"
   },
-  "homepage": "https://gyrad.github.io/tibetan-keyboard",
+  "homepage": "http://tibetankeyboard.tenzinggaychey.com",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }

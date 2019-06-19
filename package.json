@@ -5,7 +5,7 @@
   "main": "tibetan-keyboard.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -t -d build"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/gyrad/tibetan-keyboard/issues"
   },
-  "homepage": "http://tibetankeyboard.tenzinggaychey.com",
+  "homepage": "https://tibetankeyboard.tenzinggaychey.com",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
